@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remove-project name="LineageOS/android_frameworks_base" />
+  <project name="HarukeyUA/android_frameworks_base" path="frameworks/base" revision="lineage-17.0" remote="github" />
+
+   <!-- Device trees and kernel -->
+  <project name="HarukeyUA/android_device_xiaomi_laurel_sprout" path="device/xiaomi/laurel_sprout" remote="github" revision="lineage-17.0" />
+  <project name="HarukeyUA/android_kernel_xiaomi_laurel_sprout" path="kernel/xiaomi/laurel_sprout" remote="github" revision="caf-q" /> 
+  <project name="HarukeyUA/vendor_xiaomi_laurel_sprout" path="vendor/xiaomi/laurel_sprout" remote="github" revision="10" />
+</manifest>
