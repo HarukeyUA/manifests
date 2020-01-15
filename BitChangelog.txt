@@ -1,0 +1,9 @@
+- Deprecated p version (sorry, I don't have time to support it)
+- Rebased over Xiaomi Q source drop
+- Kernel is now base on als with caf merged
+- caf tag (kernel, qcacld, audio): LA.UM.8.11.r1-02200-NICOBAR.0 
+- All features that was present before rebase is preserved (kcal, ttl, exfat)
+- Add wireguard
+- Default tcp congestion algorithm is bbr
+- Removed bunch of logging from qcacld driver
+- Fingerprint improvement (THIS WILL NOT FIX FLICKERING)

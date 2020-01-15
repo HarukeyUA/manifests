@@ -1,0 +1,13 @@
+{
+  "kernel": {
+    "name": "Bit",
+    "version": "v4",
+    "link": "https://downloads.sourceforge.net/project/harukeys-roms/laurel/BitKernel/q/Bit-q-v4.zip?r\u003dhttps%3A%2F%2Fsourceforge.net%2Fprojects%2Fharukeys-roms%2Ffiles%2Flaurel%2FBitKernel%2Fq%2FBit-q-v4.zip%2Fdownload\u0026ts\u003d1579107900",
+    "changelog_url": "https://downloads.sourceforge.net/project/harukeys-roms/laurel/BitKernel/q/Bit-q-v4.txt?r\u003dhttps%3A%2F%2Fsourceforge.net%2Fprojects%2Fharukeys-roms%2Ffiles%2Flaurel%2FBitKernel%2Fq%2FBit-q-v4.txt%2Fdownload\u0026ts\u003d1579108153",
+    "date": "2020-01-15",
+    "sha1": "ed428abb9a8afc0ce1d96bfb318c0df73fc1f2f0"
+  },
+  "support": {
+    "link": "https://forum.xda-developers.com/mi-a3/development/kernel-bit-kernel-t4003295"
+  }
+}
