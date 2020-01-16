@@ -1,3 +1,5 @@
+Hotfix: Fixed wifi hotspot
+-------------------
 - Deprecated p version (sorry, I don't have time to support it)
 - Rebased over Xiaomi Q source drop
 - Kernel is now base on als with caf merged
