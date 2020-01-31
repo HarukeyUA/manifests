@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "Bit",
-    "version": "v4-hotfix",
-    "link": "https://downloads.sourceforge.net/project/harukeys-roms/laurel/BitKernel/q/Bit-q-v4-hotfix.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fharukeys-roms%2Ffiles%2Flaurel%2FBitKernel%2Fq%2FBit-q-v4-hotfix.zip%2Fdownload&ts=1579160058&use_mirror=netix",
+    "version": "v5",
+    "link": "https://downloads.sourceforge.net/project/harukeys-roms/laurel/BitKernel/q/Bit-q-v5.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fharukeys-roms%2Ffiles%2Flaurel%2FBitKernel%2Fq%2FBit-q-v5.zip%2Fdownload&ts=1580475566&use_mirror=iweb",
     "changelog_url": "https://raw.githubusercontent.com/HarukeyUA/manifests/bit/BitChangelog.txt",
-    "date": "2020-01-16",
-    "sha1": "e84d4aa6cde2ecd31b51f37a8486c0cb1fb02abc"
+    "date": "2020-01-31",
+    "sha1": "57f1ee6468778c6aa53a7763d76b87e7380162fa"
   },
   "support": {
     "link": "https://forum.xda-developers.com/mi-a3/development/kernel-bit-kernel-t4003295"

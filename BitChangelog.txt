@@ -1,5 +1,11 @@
+v5:
+- Merged caf tag LA.UM.8.11.r1-02100-NICOBAR.0 (kernel, qcacld-3.0, audio)
+- Merged ALS (4.14.169)
+- Audio kernel changes from Q source drop (previously were used changes from P)
+- Droped clk Xiaomi changes (no more errors in log from it)
+V4-hotfix:
 Hotfix: Fixed wifi hotspot
--------------------
+v4:
 - Deprecated p version (sorry, I don't have time to support it)
 - Rebased over Xiaomi Q source drop
 - Kernel is now base on als with caf merged
