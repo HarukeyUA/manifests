@@ -9,6 +9,10 @@
   <!-- Hals -->
   <project name="HarukeyUA/android_hardware_qcom_display" path="hardware/qcom/display-caf/sm8150" remote="github" revision="lineage-17.0-caf-sm8150" />
 
+  <!-- FM -->
+  <project name="LineageOS/android_vendor_qcom_opensource_fm-commonsys" path="vendor/qcom/opensource/fm-commonsys" remote="github" revision="lineage-17.1" />
+  <project name="LineageOS/android_vendor_qcom_opensource_libfmjni" path="vendor/qcom/opensource/libfmjni" remote="github" revision="lineage-17.1" />
+
   <!-- Misc -->
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-17.1" />
   <project name="HarukeyUA/laurel_gcam" path="packages/apps/gcam" remote="gitlab" revision="master" />
