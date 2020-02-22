@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- Device trees and kernel -->
-  <project name="HarukeyUA/android_device_xiaomi_laurel_sprout" path="device/xiaomi/laurel_sprout" remote="github" revision="syberia-ten" />
+  <project name="SyberiaProject-Devices/platform_device_xiaomi_laurel_sprout" path="device/xiaomi/laurel_sprout" remote="github" revision="10.0" />
   <project name="HarukeyUA/android_kernel_xiaomi_laurel_sprout" path="kernel/xiaomi/laurel_sprout" remote="github" revision="ten" /> 
   <project name="HarukeyUA/vendor_xiaomi_laurel_sprout" path="vendor/xiaomi/laurel_sprout" remote="github" revision="10" />
 
