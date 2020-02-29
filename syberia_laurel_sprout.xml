@@ -15,7 +15,7 @@
 
   <!-- Misc -->
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-17.1" />
-  <project name="LineageOS/android_packages_apps_Snap" path="packages/apps/Snap" remote="github" revision="lineage-17.1"/>
+  <project name="HarukeyUA/android_packages_apps_Snap" path="packages/apps/Snap" remote="github" revision="lineage-17.1"/>
   
 
 </manifest>
