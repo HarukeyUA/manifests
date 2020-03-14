@@ -21,6 +21,7 @@
   <!-- Misc -->
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-17.1" />
   <project name="HarukeyUA/vendor_MiuiCamera" path="vendor/MiuiCamera" remote="github" revision="ten-anx"/>
+  <project name="syberia-project/official_devices" path="official_devices" remote="github" revision="master" />
   
 
 </manifest>
